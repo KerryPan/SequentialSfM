@@ -1,0 +1,22 @@
+﻿  func.cpp
+d:\opencv3.1.0\opencv\mybuild\install\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.1.0\opencv\mybuild\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.1.0\opencv\mybuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.1.0\opencv\mybuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(82): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(144): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(147): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(310): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(329): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(428): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(456): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(547): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(558): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(599): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(631): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(665): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(672): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pan\desktop\三维重建\sequentialsfm\func.cpp(708): warning C4018: “<”: 有符号/无符号不匹配
+  SequentialSfM.vcxproj -> C:\Users\pan\Desktop\三维重建\SequentialSfM\Debug\SequentialSfM.exe
