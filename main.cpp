@@ -101,6 +101,7 @@ void main()
 	//glutInit(&argc, argv);
 
 	cout << "nihao" << endl;
+	cout << "第二次修改" << endl;
 	waitKey();
 }
 
