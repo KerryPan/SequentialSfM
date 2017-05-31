@@ -100,7 +100,8 @@ void main()
 
 	//glutInit(&argc, argv);
 
-	//waitKey();
+	cout << "nihao" << endl;
+	waitKey();
 }
 
 
